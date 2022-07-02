@@ -1,3 +1,4 @@
+[![MasterHead](https://telegra.ph/file/b253448954f17b31fe59d.gif)](https://rachit-pal.io)
 <h1 align="center">Hello I'm Rachit Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
