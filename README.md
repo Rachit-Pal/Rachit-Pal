@@ -11,7 +11,6 @@
 <h1 align="center">Hello I'm Rachit Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-
 <!--- Social Media Details
 
 <p align="left"> <a href="https://twitter.com/rachitkrpal" target="blank"><img src="https://img.shields.io/twitter/follow/rachitkrpal?logo=twitter&style=for-the-badge" alt="rachitkrpal" /></a> </p>
