@@ -91,6 +91,8 @@
 
 ## Snake is eating my contribution 😭
 
+![snake gif](https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--- Github Account Statistics --->
 
