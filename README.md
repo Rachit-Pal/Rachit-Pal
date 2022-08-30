@@ -121,13 +121,13 @@
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RachitPal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Rachit-Pal/AnyaCursor" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RachitPal&repo=LoginUI&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rachit-Pal/LoginUI" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=LoginUI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RachitPal&repo=QuoteGenerator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RachitPal&repo=AnyaCursor&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rachit-Pal/QuoteGenerator" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=QuoteGenerator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rachit-Pal/AnyaCursor" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AnyaCursor&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
@@ -135,3 +135,14 @@
 <h4 align="center">
   <a href="https://github.com/KushalTanna24?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+
+<!--- Greeting Text and Image --->
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
