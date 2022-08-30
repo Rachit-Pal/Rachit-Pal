@@ -12,11 +12,14 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<!--- Guthub Trophy and Graph --->
+<!--- Github Trophy --->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=juicyfresh" alt="Rachit-Pal"/></a>
 </p>
+
+
+<!--- Github Contribution Graph --->
 
 <p align="center">
   <br>
@@ -28,7 +31,7 @@
 
 <!---- Github Streak Stats --->
 
-## 🔥 Streak Stats
+## 〽️ Streak Stats
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -89,10 +92,13 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rachit-Pal&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Pal&layout=compact&theme=github_dark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit-Pal" /></p>
+<br>
 
-## :book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
+<!--- Views Counter --->
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit-Pal" /></p>
+
+<br>
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
