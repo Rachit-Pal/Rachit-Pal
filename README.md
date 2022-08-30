@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Rachit+Pal!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Fellas;+Myself+Rachit+Pal!;&center=true&size=27">
   </a>
 </h1>
 
@@ -16,10 +16,11 @@
 
 <!-- About Me -->
 
+<h1 align="center">Hello! Myself Rachit Pal</h1>
 <p align="center">
-    Hi, I'm Rachit Pal, Web Developer, Learner and a Gamer<br>
-    🎓 Doing my Bechlors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a><br>
-    I’m currently working on <a href="https://t.me/DarkAlbedoBot">ALBEDO</a><br>
+    A Web Developer, Learner and a Gamer from India<br>
+    🎓 Doing my Bechlors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
+    💻 I’m currently working on <a href="https://t.me/DarkAlbedoBot">ALBEDO</a> 💻<br>
 </p>
 
 
