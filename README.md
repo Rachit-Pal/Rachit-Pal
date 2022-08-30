@@ -15,7 +15,7 @@
 <!--- Guthub Trophy and Graph --->
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rachit-Pal" alt="Rachit-Pal"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=juicyfresh" alt="Rachit-Pal"/></a>
 </p>
 
 <p align="center">
