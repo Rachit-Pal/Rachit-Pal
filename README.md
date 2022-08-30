@@ -17,11 +17,11 @@
 <!--- A B O U T   M E --->
 
 <h1 align="center">Hello! Myself Rachit Pal</h1>
-<p align="center">
+<h4 align="center">
     ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
     🎓 Doing my Bechlors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
     💻 I’m currently working on <a href="https://t.me/DarkAlbedoBot">ALBEDO BOT</a> 💻<br>
-</p>
+</h4>
 
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
@@ -55,7 +55,7 @@
 </p>
 
 
-<!--- L A N G U A G E - F R AM E W O R K S -  T O O L S --->
+<!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
@@ -64,8 +64,7 @@
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,py,wordpress,md,graphql,atom,discord" /><br>
     <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
   </a>
-</p>
-<br>
+</p><br>
 
 <h3 align="center">Learning</h3>
 <p align="center">
@@ -82,7 +81,7 @@
 <div align="center">
   <h2>🐍 Snake eating my Contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/KushalTanna24/KushalTanna24/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
