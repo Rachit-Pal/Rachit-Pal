@@ -1,30 +1,22 @@
-<!--- Animated Name --->
+<!--- Animated Title --->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Fellas;I'm+Rachit+Pal&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 
-<!--- Develpoer Image & Name --->
+<!--- Image, Name and Description --->
 
 [![MasterHead](https://telegra.ph/file/b253448954f17b31fe59d.gif)](https://rachit-pal.io)
 <h1 align="center">Hello I'm Rachit Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<!--- Social Media Details
 
-<p align="left"> <a href="https://twitter.com/rachitkrpal" target="blank"><img src="https://img.shields.io/twitter/follow/rachitkrpal?logo=twitter&style=for-the-badge" alt="rachitkrpal" /></a> </p>
+<!--- Guthub Trophy and Graph --->
 
-- I’m currently learning **C++**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rachitkrpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachitkrpal" height="30" width="40" /></a>
-<a href="https://instagram.com/rachitkrpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachitkrpal" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rachit-Pal" alt="Rachit-Pal"/></a>
 </p>
---->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rachit-Pal" alt="Rachit-Pal" /></a> </p>
 
 <p align="center">
   <br>
@@ -34,12 +26,25 @@
 </p>
 
 
+<!---- Github Streak Stats --->
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-pal&theme=monokai-metallian&hide_border=true"/></a>
+</p>
+
+
+<!--- B e d g e s --->
+
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rachit-Pal)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saltam4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rachitkrpal) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rachitkrpal)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saltam4)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://tiwtter.com/rachitkrpal)
+
 
 ## Languages
 
@@ -50,7 +55,6 @@
   </a> <br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## OS & Tools
@@ -78,8 +82,22 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
+
+<!--- Github Account Statistics --->
+
 ## Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rachit-Pal&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Pal&layout=compact&theme=github_dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit-Pal" /></p>
+
+## :book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
