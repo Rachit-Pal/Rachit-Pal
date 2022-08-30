@@ -92,11 +92,10 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rachit-Pal&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Pal&layout=compact&theme=github_dark)
 
-<br>
 
 <!--- Views Counter --->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit-Pal" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit-Pal" /></p>
 
 <br>
 
