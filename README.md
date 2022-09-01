@@ -41,7 +41,7 @@
 <!--- G I T H U B   T R O P H Y --->
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&no-frame=true&theme=darkhub" alt="Rachit-Pal"/></a>
+  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&no-frame=true&theme=darkhub" alt="Rachit-Pal"/></a>
 </p>
 
 
