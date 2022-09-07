@@ -41,7 +41,7 @@
 <!--- G I T H U B   T R O P H Y --->
 
 <p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=algolia&no-bg=true&no-frame=true&row=1" alt="Rachit-Pal"/></a>
+  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true&row=1" alt="Rachit-Pal"/></a>
 </p>
 
 
@@ -50,7 +50,7 @@
 <p align="center">
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true&no-bg=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
   </a>
 </p>
 
