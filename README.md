@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat">
 
-<div><img src="https://telegra.ph/file/5019da72c2c2fceda6911.gif"></div>
+<div><img src=""></div>
 
 
 <!--- A N I M A T E D   T E X T --->
