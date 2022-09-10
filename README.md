@@ -41,7 +41,7 @@
 
 <!--- G I T H U B   T R O P H Y --->
 
-<h1 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="35px"></h1>
+<h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
 <br>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
-<h1 align="center">🔥 Languages-Frameworks-Tools 🔥</h1>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,7 +83,7 @@
 <!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
 
 <div align="center">
-  <h1 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="35px"></h1>
+  <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg">
   <br>
