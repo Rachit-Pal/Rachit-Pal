@@ -1,22 +1,26 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat">
+<img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat"><br>
+
+
+<!--- P R O F I L E   B A N N E R --->
+
+<h1 align="center">
+  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
+</h1>
 
 
 <!--- A N I M A T E D   T E X T --->
 
-<h1 align="center">
+<h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+Fellas!;+Myself+Rachit+Pal!;&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Fellas!;Myself+Rachit+Pal!"/>
   </a>
 </h1>
-
-<br>
 
 
 <!--- A B O U T   M E --->
 
-<h1 align="center">Hello! Myself Rachit Pal</h1>
 <h4 align="center">
     ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
     🎓 Doing my Bechlors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
