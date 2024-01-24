@@ -24,7 +24,7 @@
 <h4 align="center">
     ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
     🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://rendergfx.com/work">RENDER GFX</a> 💻<br>
+    💻 I’m currently working on <a href="https://rendergfx.com/">RENDER GFX</a> 💻<br>
 </h4>
 
 
