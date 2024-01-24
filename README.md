@@ -24,7 +24,7 @@
 <h4 align="center">
     ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
     🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://t.me/NekochanRobot">NEKO ROBOT</a> 💻<br>
+    💻 I’m currently working on <a href="https://rendergfx.com/work">RENDER GFX</a> 💻<br>
 </h4>
 
 
@@ -32,9 +32,9 @@
 
 <div align="center">
     <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/RachitKrPal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/MyselfRachiit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:RachitKrPal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/RachitKrPal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/Render_GFX" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
